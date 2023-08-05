@@ -1,0 +1,10 @@
+A quality of life mod for NPC spawn conditions.
+
+Features
+
+- Right clicking the housing query button teleports all NPCs to their Houses
+- Customize spawn rate of NPCS.
+- Allow NPCs to spawn at night
+
+Join the discord to report bugs & suggest changes:
+https://discord.gg/MKcjBKwBVu

@@ -1,0 +1,15 @@
+Configs: {
+	Config: {
+		DisplayName: NPC Spawn Configuration
+
+		canNPCSpawnAtNight: {
+			Tooltip: Whether or not NPCs can spawn during night time
+			Label: Can NPCs Spawn At Night
+		}
+
+		NPCSpawnRate: {
+			Tooltip: Multiplies the spawn rate of Town NPCs by this amount [Default/Min: 1, Max: 3000]
+			Label: NPC Spawn Rate Multiplier
+		}
+	}
+}

@@ -1,0 +1,9 @@
+displayName = NPC Quality of Life
+author = Martipops
+version = 2023.8.4.6
+homepage = https://discord.gg/MKcjBKwBVu
+side = Both
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, bin\*, .vs\*, *.sln, obj\*
